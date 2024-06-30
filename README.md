@@ -11,6 +11,6 @@ In the backend, I use Python to retrieve the loaded image and produce a `.txt` o
 To view the output `.txt` and loaded image for Python, open `~/detection/detect.jpg` and `~/detection/prediction.txt`.
 
 <video width="320" height="240" controls>
-  <source src="https://github.com/intruder-404/Detect-Numbers/working/Recording%202024-06-29%20160658.mp4" type="video/mp4">
+  <source src="https://github.com/intruder-404/Detect-Numbers/blob/main/working/Recording%202024-06-29%20160658.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
