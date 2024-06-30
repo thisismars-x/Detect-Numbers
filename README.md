@@ -12,6 +12,6 @@ This is later rendered on screen.
 To visit output .txt and loaded image for python, open ~/detection/detect.jpg and ~/detection/prediction.txt
 
 <video width="320" height="240" controls>
-  <source src="https://github.com/username/repository/raw/main/path/to/video.mp4" type="video/mp4">
+  <source src="https://github.com/intruder-404/Detect-Numbers/working/Recording 2024-06-29 160658.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
