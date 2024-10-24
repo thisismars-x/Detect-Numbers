@@ -13,6 +13,6 @@ To view the output `.txt` and loaded image for Python, open `~/detection/detect.
 ### Demo
 
 Here is an example;
-[Click here to watch](https://github.com/intruder-404/Detect-Numbers/blob/main/working/Recording%202024-06-29%20160658.mp4)
+![Click here to watch](https://github.com/intruder-404/Detect-Numbers/blob/main/working/Recording%202024-06-29%20160658.mp4)
 
 Forgive Slavoj Zizek's voice
